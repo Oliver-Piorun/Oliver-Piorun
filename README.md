@@ -6,5 +6,5 @@ Since then I am hungry for knowledge and I cannot see it fading away.
 
 **Personal**
 - :desktop_computer: Enjoying and following many IT-related topics
-- :keyword: Interested in writing reliable, fast and secure software
+- :keyboard: Interested in writing reliable, fast and secure software
 - :point_right: Trying to make people's lives easier, essentially
