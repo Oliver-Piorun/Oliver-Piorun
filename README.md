@@ -2,7 +2,7 @@
 
 I work as a cross-functional software engineer located in Germany. Developing web and desktop apps has always accompanied me. It all started in 2005 when I got my first computer and digged into exploiting online video games. For educational purposes ... obviously :wink:
 
-Since then I am craving for knowledge and I cannot see it fading away.
+Since then I am basically a vacuum cleaner for knowledge.
 
 **Personal**
 - :desktop_computer: Enjoying and following many IT-related topics
